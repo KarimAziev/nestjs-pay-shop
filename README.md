@@ -68,7 +68,9 @@ Global and local exception filters are used to gracefully handle errors across t
 npm install
 ```
 
-4. Then run the application either in production or development mode:
+4. Create .env file. See also .env.example.
+
+5. Then run the application either in production or development mode:
 
 ### Production Mode
 
